@@ -1,6 +1,3 @@
-[submodule "bundle/command-t"]
-	path = bundle/command-t
-	url = git@github.com:wincent/command-t.git
 [submodule "bundle/greplace"]
 	path = bundle/greplace
 	url = git@github.com:vim-scripts/greplace.vim.git
@@ -82,3 +79,24 @@
 [submodule "bundle/SingleCompile"]
 	path = bundle/SingleCompile
 	url = https://github.com/xuhdev/SingleCompile
+[submodule "bundle/haskellConcealPlus"]
+	path = bundle/haskellConcealPlus
+	url = git@github.com:enomsg/vim-haskellConcealPlus.git
+[submodule "bundle/LargeFile"]
+	path = bundle/LargeFile
+	url = git@github.com:vim-scripts/LargeFile.git
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule "bundle/editorconfig"]
+	path = bundle/editorconfig
+	url = git@github.com:editorconfig/editorconfig-vim.git
+[submodule "bundle/javascript-libraries-syntax"]
+	path = bundle/javascript-libraries-syntax
+	url = git@github.com:othree/javascript-libraries-syntax.vim.git
+[submodule "bundle/rainbow"]
+	path = bundle/rainbow
+	url = git@github.com:luochen1990/rainbow.git
+[submodule "bundle/yajs"]
+	path = bundle/yajs
+	url = git@github.com:othree/yajs.vim.git
